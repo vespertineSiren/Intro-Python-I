@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396c7de1-5558-4035-a3aa-019e026f3943" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Intro-Python-I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Intro-Python-I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_bignum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_bignum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/03_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/04_printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/04_printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/05_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/06_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/06_tuples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/07_slices.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/07_slices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/08_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/08_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/09_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/09_dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/10_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/11_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/11_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12_scopes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/12_scopes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13_file_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/13_file_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/15_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/15_classes.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.08_comprehensions">
-    <configuration name="03_modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.15_classes">
+    <configuration name="10_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +55,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/03_modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/10_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11_args" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +77,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/05_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/11_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12_scopes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +99,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/06_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/12_scopes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_slices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13_file_io" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +121,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/07_slices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/13_file_io.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15_classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-Python-I" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/08_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/15_classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.08_comprehensions" />
-        <item itemvalue="Python.07_slices" />
-        <item itemvalue="Python.06_tuples" />
-        <item itemvalue="Python.05_lists" />
-        <item itemvalue="Python.03_modules" />
+        <item itemvalue="Python.15_classes" />
+        <item itemvalue="Python.13_file_io" />
+        <item itemvalue="Python.12_scopes" />
+        <item itemvalue="Python.11_args" />
+        <item itemvalue="Python.10_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567546033176</updated>
-      <workItem from="1567546035493" duration="1933000" />
+      <workItem from="1567546035493" duration="5215000" />
     </task>
     <task id="LOCAL-00001" summary="Completed 00_hello.py">
       <created>1567546063571</created>
@@ -186,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567546063571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding">
+      <created>1567613321774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567613321774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,16 +207,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed 00_hello.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed 00_hello.py" />
+    <MESSAGE value="adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Intro_Python_I$08_comprehensions.coverage" NAME="08_comprehensions Coverage Results" MODIFIED="1567613143025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$10_functions.coverage" NAME="10_functions Coverage Results" MODIFIED="1567614459124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$01_bignum.coverage" NAME="01_bignum Coverage Results" MODIFIED="1567611945264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$11_args.coverage" NAME="11_args Coverage Results" MODIFIED="1567615060149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$04_printing.coverage" NAME="04_printing Coverage Results" MODIFIED="1567612293407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$07_slices.coverage" NAME="07_slices Coverage Results" MODIFIED="1567612788556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/Intro_Python_I$02_datatypes.coverage" NAME="02_datatypes Coverage Results" MODIFIED="1567611948727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$12_scopes.coverage" NAME="12_scopes Coverage Results" MODIFIED="1567615240247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$03_modules.coverage" NAME="03_modules Coverage Results" MODIFIED="1567612442475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$06_tuples.coverage" NAME="06_tuples Coverage Results" MODIFIED="1567612784289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/Intro_Python_I$05_lists.coverage" NAME="05_lists Coverage Results" MODIFIED="1567612557562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$08_comprehensions.coverage" NAME="08_comprehensions Coverage Results" MODIFIED="1567614022797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$15_classes.coverage" NAME="15_classes Coverage Results" MODIFIED="1567616525474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$09_dictionaries.coverage" NAME="09_dictionaries Coverage Results" MODIFIED="1567614168606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$02_datatypes.coverage" NAME="02_datatypes Coverage Results" MODIFIED="1567611948727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/Intro_Python_I$13_file_io.coverage" NAME="13_file_io Coverage Results" MODIFIED="1567615590644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
